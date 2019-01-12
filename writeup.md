@@ -41,7 +41,7 @@ You're reading it! and here is a link to my [project code](https://github.com/rp
 
 #### 1. Provide a basic summary of the data set. In the code, the analysis should be done using python, numpy and/or pandas methods rather than hardcoding results manually.
 
-I used the numpy library to calculate summary statistics of the traffic signs data set in code cell **[3]** of notebook.
+I used the numpy library to calculate summary statistics of the traffic signs data set in code cell **[3]** of notebook. The pickled version of this dataset can be downloaded from [here](https://drive.google.com/open?id=1ig0T6qHlTRSd63f4uGuvlQF9N00Skmji)
 
 * The size of training set is **34799**
 * The size of the validation set is **4410**
