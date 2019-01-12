@@ -16,8 +16,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/explore-viz.jpg "Visualization"
-[image2]: ./examples/grayscale.jpg "Grayscaling"
+[image1]: ./examples/explore-viz.png "Visualization"
+[image2]: ./examples/grayscale.png "Grayscaling"
 [image3]: ./images/20.png "20"
 [image4]: ./images/60.png "60"
 [image5]: ./images/ahead.png "Ahead"
